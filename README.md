@@ -6,7 +6,7 @@ Visit our website:
     shemodb.com
 
 ## References
-If you use this dataset, please cite the following papers:
+If you use this dataset, please cite the following paper:
 ~~~~
 @Article{MohamadNezami2019,
 author="Mohamad Nezami, Omid
