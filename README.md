@@ -20,7 +20,6 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 
 Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>Springer</a>
 
-Visit our <a href='http://www.shemodb.com/'>website</a> for more info 
 
 ## Description of Labels
 The characters used in the labels and their corresponding meaning:
